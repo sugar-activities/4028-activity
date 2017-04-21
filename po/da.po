@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-08 00:34-0500\n"
+"PO-Revision-Date: 2012-03-16 21:52+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Læs"
+
+#: evinceadapter.py:74
+msgid "URL from Read"
+msgstr "URL fra Læs"
+
+#: readactivity.py:232
+msgid "Highlight"
+msgstr "Fremhæv"
+
+#: readactivity.py:341
+msgid "Back"
+msgstr "Tilbage"
+
+#: readactivity.py:346
+msgid "Previous page"
+msgstr "Forrige side"
+
+#: readactivity.py:348
+msgid "Previous bookmark"
+msgstr "Forrige bogmærke"
+
+#: readactivity.py:363
+msgid "Forward"
+msgstr "Frem"
+
+#: readactivity.py:368
+msgid "Next page"
+msgstr "Næste side"
+
+#: readactivity.py:370
+msgid "Next bookmark"
+msgstr "Næste bogmærke"
+
+#: readdialog.py:51
+msgid "Cancel"
+msgstr "Annullér"
+
+#: readdialog.py:57
+msgid "Ok"
+msgstr "Ok"
+
+#: readdialog.py:112
+msgid "<b>Title</b>:"
+msgstr "<b>Titel</b>:"
+
+#: readdialog.py:138
+msgid "<b>Details</b>:"
+msgstr "<b>Detaljer</b>:"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago
+#. TRANS: (the elapsed string gets translated automatically)
+#: readsidebar.py:86
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "Bogmærker tilføjet af %(user)s %(time)s"
+
+#: readsidebar.py:129 readsidebar.py:171
+msgid "Add notes for bookmark: "
+msgstr "Tilføj noter til bogmærke: "
+
+#: readsidebar.py:167
+#, python-format
+msgid "%s's bookmark"
+msgstr "%s's bogmærke"
+
+#: readsidebar.py:168
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "Bogmærke for side %d"
+
+#: readtoolbar.py:61
+msgid "Previous"
+msgstr "Forrige"
+
+#: readtoolbar.py:68
+msgid "Next"
+msgstr "Næste"
+
+#: readtoolbar.py:151
+msgid "Find first"
+msgstr "Find første"
+
+#: readtoolbar.py:157
+msgid "Find previous"
+msgstr "Find forrige"
+
+#: readtoolbar.py:159
+msgid "Find next"
+msgstr "Find næste"
+
+#: readtoolbar.py:176
+msgid "Zoom out"
+msgstr "Formindsk"
+
+#: readtoolbar.py:182
+msgid "Zoom in"
+msgstr "Forstør"
+
+#: readtoolbar.py:188
+msgid "Zoom to width"
+msgstr "Tilpas til bredde"
+
+#: readtoolbar.py:194
+msgid "Zoom to fit"
+msgstr "Zoomtilpasning"
+
+#: readtoolbar.py:199
+msgid "Actual size"
+msgstr "Aktuel størrelse"
+
+#: readtoolbar.py:216
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:229
+msgid "Fullscreen"
+msgstr "Fuldskærm"
+
+#: readtopbar.py:140
+#, python-format
+msgid "Page %(current)i of %(total_pages)i"
+msgstr "Side %(current)i af %(total_pages)i"
+
+#: speechtoolbar.py:56
+msgid "Play / Pause"
+msgstr "Afspil / Pause"
+
+#: speechtoolbar.py:64
+msgid "Stop"
+msgstr "Stop"
+
+#~ msgid "pitch adjusted"
+#~ msgstr "tonehøjde tilpasset"
+
+#~ msgid "rate adjusted"
+#~ msgstr "hastighed tilpasset"
+
+#~ msgid "Choose document"
+#~ msgstr "Vælg dokument"
+
+#, python-format
+#~ msgid "Page %i of %i"
+#~ msgstr "Side %i af %i"
+
+#~ msgid "Edit"
+#~ msgstr "Redigér"
+
+#~ msgid "View"
+#~ msgstr "Vis"

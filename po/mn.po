@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-22 00:32-0500\n"
+"PO-Revision-Date: 2011-10-11 18:51+0200\n"
+"Last-Translator: Cris Anderson <anderson861@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Унших"
+
+#: readactivity.py:242
+msgid "Highlight"
+msgstr ""
+
+#: readactivity.py:345
+msgid "Back"
+msgstr "Буцах"
+
+#: readactivity.py:348
+msgid "Previous page"
+msgstr "Өмнөх хуудас"
+
+#: readactivity.py:351
+msgid "Previous bookmark"
+msgstr "Өмнөх тэмдэглэгээ"
+
+#: readactivity.py:361
+msgid "Forward"
+msgstr "Урагшлах"
+
+#: readactivity.py:364
+msgid "Next page"
+msgstr "Дараах хуудас"
+
+#: readactivity.py:367
+msgid "Next bookmark"
+msgstr "Дараах тэмдэглэгээ"
+
+#: readactivity.py:582
+msgid "Choose document"
+msgstr "Баримт сонгох"
+
+#: readdialog.py:51
+msgid "Cancel"
+msgstr "Болио"
+
+#: readdialog.py:57
+msgid "Ok"
+msgstr "Зөв"
+
+#: readdialog.py:111
+msgid "<b>Title</b>:"
+msgstr "<b>Гарчиг</b>:"
+
+#: readdialog.py:137
+msgid "<b>Details</b>:"
+msgstr "<b>Деталь</b>:"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago (the elapsed string gets translated
+#. TRANS: automatically)
+#: readsidebar.py:86
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "%(user)s %(time)s-т тэмдэглэгээ нэмсэн"
+
+#: readsidebar.py:128 readsidebar.py:169
+msgid "Add notes for bookmark: "
+msgstr "Тэмдэглэгээнд тайлбар хийх: "
+
+#: readsidebar.py:165
+#, python-format
+msgid "%s's bookmark"
+msgstr "%s-ын тэмдэглэгээ"
+
+#: readsidebar.py:166
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "%d -р хуудасны тэмдэглэгээ"
+
+#: readtoolbar.py:65
+msgid "Previous"
+msgstr "Өмнөх"
+
+#: readtoolbar.py:72
+msgid "Next"
+msgstr "Дараах"
+
+#: readtoolbar.py:155
+msgid "Find first"
+msgstr "Эхнийхийг олох"
+
+#: readtoolbar.py:161
+msgid "Find previous"
+msgstr "Өмнөхийг олох"
+
+#: readtoolbar.py:163
+msgid "Find next"
+msgstr "Дараагийнхийг олох"
+
+#: readtoolbar.py:179
+msgid "Zoom out"
+msgstr "Холдуулах"
+
+#: readtoolbar.py:185
+msgid "Zoom in"
+msgstr "Ойртуулах"
+
+#: readtoolbar.py:191
+msgid "Zoom to width"
+msgstr "Өргөнд тааруулах"
+
+#: readtoolbar.py:197
+msgid "Zoom to fit"
+msgstr "Багтахаар гаргах"
+
+#: readtoolbar.py:202
+msgid "Actual size"
+msgstr "Бодит хэмжээ"
+
+#: readtoolbar.py:219
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:232
+msgid "Fullscreen"
+msgstr "Дэлгэц дүүрэн"
+
+#: readtoolbar.py:329
+msgid "Play / Pause"
+msgstr "Тоглуулах/Түр зогсох"
+
+#. TRANS: Translate this as Page i of m (eg: Page 4 of 334)
+#: readtopbar.py:206
+#, python-format
+msgid "Page %i of %i"
+msgstr "%i-н %i-р хуудас"
+
+#~ msgid "Edit"
+#~ msgstr "Засварлах"
+
+#~ msgid "View"
+#~ msgstr "Харах"

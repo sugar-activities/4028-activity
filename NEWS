@@ -1,0 +1,51 @@
+78
+
+* Add footnotes and intra-document links support in EPUB
+
+77
+
+* Workaround https://bugs.launchpad.net/soas/+bug/483231
+
+76
+
+* Fix pagination for IA Epubs
+* Updated Vietnamese translations
+
+75
+
+* Fix search in Epub files (dslo #1319)
+* Updated translations for German, Mongolian and Portuguese
+
+74
+
+* Set bundle id in metadata explicitly (addresses dslo#1172)
+* Workaround possible Evince libview API issues. (dslo#1328)
+* Use gobject.timeout_add_seconds instead of gobject.timeout_add
+* Updated translations for French and Japanese
+
+73
+
+* Migration to the new toolbar system
+* Updated translations (Arabic, Dutch, French)
+* New languages
+
+72
+
+* More robust Epub support
+* Do not print each and every key-event to log (dslo#752)
+* Updated translations (French, Italian)
+* Get rid of the pywebkitgtk binary blob
+
+71
+
+* Support for notes associated with bookmarks
+* Show a information bar in fullscreen mode, with pagecount and battery information
+* Do not fail to start when Epub specific code does not load
+
+70
+
+* Epub support
+* Bookmarks support
+* Default behaviour of Next/Forward is chunk-wise instead of page-wise.
+* Translation updates (Italian, Japanese)
+* Misc bugfixes

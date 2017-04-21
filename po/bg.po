@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-08 00:34-0500\n"
+"PO-Revision-Date: 2008-03-01 13:04-0500\n"
+"Last-Translator: Alexander Todorov <atodorov@redhat.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.0.2\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Четене"
+
+#: evinceadapter.py:74
+msgid "URL from Read"
+msgstr ""
+
+#: readactivity.py:232
+msgid "Highlight"
+msgstr ""
+
+#: readactivity.py:341
+msgid "Back"
+msgstr "Назад"
+
+#: readactivity.py:346
+msgid "Previous page"
+msgstr ""
+
+#: readactivity.py:348
+msgid "Previous bookmark"
+msgstr ""
+
+#: readactivity.py:363
+msgid "Forward"
+msgstr "Напред"
+
+#: readactivity.py:368
+msgid "Next page"
+msgstr ""
+
+#: readactivity.py:370
+msgid "Next bookmark"
+msgstr ""
+
+#: readdialog.py:51
+msgid "Cancel"
+msgstr ""
+
+#: readdialog.py:57
+msgid "Ok"
+msgstr ""
+
+#: readdialog.py:112
+msgid "<b>Title</b>:"
+msgstr ""
+
+#: readdialog.py:138
+msgid "<b>Details</b>:"
+msgstr ""
+
+#. TRANS: This goes like Bookmark added by User 5 days ago
+#. TRANS: (the elapsed string gets translated automatically)
+#: readsidebar.py:86
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr ""
+
+#: readsidebar.py:129 readsidebar.py:171
+msgid "Add notes for bookmark: "
+msgstr ""
+
+#: readsidebar.py:167
+#, python-format
+msgid "%s's bookmark"
+msgstr ""
+
+#: readsidebar.py:168
+#, python-format
+msgid "Bookmark for page %d"
+msgstr ""
+
+#: readtoolbar.py:61
+msgid "Previous"
+msgstr "Предишен"
+
+#: readtoolbar.py:68
+msgid "Next"
+msgstr "Следващ"
+
+#: readtoolbar.py:151
+msgid "Find first"
+msgstr "Търсене на първо съвпадение"
+
+#: readtoolbar.py:157
+msgid "Find previous"
+msgstr "Търсене напред"
+
+#: readtoolbar.py:159
+msgid "Find next"
+msgstr "Търсене назад"
+
+#: readtoolbar.py:176
+msgid "Zoom out"
+msgstr "Намаляване"
+
+#: readtoolbar.py:182
+msgid "Zoom in"
+msgstr "Увеличаване"
+
+# виж превода на evince
+#: readtoolbar.py:188
+msgid "Zoom to width"
+msgstr "Запълване на страницата по ширина"
+
+# виж превода на evince
+#: readtoolbar.py:194
+msgid "Zoom to fit"
+msgstr "Запълване на страницата"
+
+#: readtoolbar.py:199
+msgid "Actual size"
+msgstr "Оригинален размер"
+
+#: readtoolbar.py:216
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:229
+msgid "Fullscreen"
+msgstr "На цял екран"
+
+#: readtopbar.py:140
+#, python-format
+msgid "Page %(current)i of %(total_pages)i"
+msgstr ""
+
+#: speechtoolbar.py:56
+msgid "Play / Pause"
+msgstr ""
+
+#: speechtoolbar.py:64
+msgid "Stop"
+msgstr ""
+
+#~ msgid "Edit"
+#~ msgstr "Редактиране"
+
+#~ msgid "View"
+#~ msgstr "Изглед"

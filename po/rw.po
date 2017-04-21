@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-08 00:34-0500\n"
+"PO-Revision-Date: 2011-10-16 21:17+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Soma"
+
+#: evinceadapter.py:74
+msgid "URL from Read"
+msgstr ""
+
+#: readactivity.py:232
+#, fuzzy
+msgid "Highlight"
+msgstr "Igaragaza cyane"
+
+#: readactivity.py:341
+msgid "Back"
+msgstr "Inyuma"
+
+#: readactivity.py:346
+#, fuzzy
+msgid "Previous page"
+msgstr "Ipaji ibanje"
+
+#: readactivity.py:348
+#, fuzzy
+msgid "Previous bookmark"
+msgstr "Akamenyetso kabanza"
+
+#: readactivity.py:363
+msgid "Forward"
+msgstr "Imbere"
+
+#: readactivity.py:368
+#, fuzzy
+msgid "Next page"
+msgstr "Ipaji ikurikira"
+
+#: readactivity.py:370
+#, fuzzy
+msgid "Next bookmark"
+msgstr "Akamenyetso gakurikira"
+
+#: readdialog.py:51
+msgid "Cancel"
+msgstr "Kureka"
+
+#: readdialog.py:57
+#, fuzzy
+msgid "Ok"
+msgstr "Yego"
+
+#: readdialog.py:112
+msgid "<b>Title</b>:"
+msgstr "<b>Umutwe</b>:"
+
+#: readdialog.py:138
+msgid "<b>Details</b>:"
+msgstr "<b>Birambuye</b>:"
+
+#. TRANS: This goes like Bookmark added by User 5 days ago
+#. TRANS: (the elapsed string gets translated automatically)
+#: readsidebar.py:86
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr ""
+
+#: readsidebar.py:129 readsidebar.py:171
+msgid "Add notes for bookmark: "
+msgstr ""
+
+#: readsidebar.py:167
+#, python-format
+msgid "%s's bookmark"
+msgstr ""
+
+#: readsidebar.py:168
+#, python-format
+msgid "Bookmark for page %d"
+msgstr ""
+
+#: readtoolbar.py:61
+msgid "Previous"
+msgstr "Ibibanziriza"
+
+#: readtoolbar.py:68
+msgid "Next"
+msgstr "Ibikurikira"
+
+#: readtoolbar.py:151
+msgid "Find first"
+msgstr "Shaka mbere"
+
+#: readtoolbar.py:157
+msgid "Find previous"
+msgstr "Shaka Ibibanziriza"
+
+#: readtoolbar.py:159
+msgid "Find next"
+msgstr "Shaka ibikurikira"
+
+#: readtoolbar.py:176
+msgid "Zoom out"
+msgstr "Kwagura"
+
+#: readtoolbar.py:182
+msgid "Zoom in"
+msgstr "Kugabanya"
+
+#: readtoolbar.py:188
+msgid "Zoom to width"
+msgstr "Agura ukigira kigari"
+
+#: readtoolbar.py:194
+msgid "Zoom to fit"
+msgstr "Agura ikntu ugira ngo gikwire ahantu"
+
+#: readtoolbar.py:199
+msgid "Actual size"
+msgstr "Ingano nyayo"
+
+#: readtoolbar.py:216
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:229
+msgid "Fullscreen"
+msgstr "Ekarayose"
+
+#: readtopbar.py:140
+#, python-format
+msgid "Page %(current)i of %(total_pages)i"
+msgstr ""
+
+#: speechtoolbar.py:56
+msgid "Play / Pause"
+msgstr ""
+
+#: speechtoolbar.py:64
+msgid "Stop"
+msgstr ""
+
+#~ msgid "Edit"
+#~ msgstr "Hindura"
+
+#~ msgid "View"
+#~ msgstr "Irebero"

@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-05 11:05-0300\n"
+"PO-Revision-Date: 2011-09-28 19:52+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Read"
+msgstr "Читать"
+
+#: readtoolbar.py:67
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: readtoolbar.py:74
+msgid "Next"
+msgstr "Следующий"
+
+#: readtoolbar.py:157
+msgid "Find first"
+msgstr "Найти первый"
+
+#: readtoolbar.py:163
+msgid "Find previous"
+msgstr "Найти предыдущий"
+
+#: readtoolbar.py:165
+msgid "Find next"
+msgstr "Найти следующий"
+
+#: readtoolbar.py:181
+msgid "Zoom out"
+msgstr "Увеличить"
+
+#: readtoolbar.py:187
+msgid "Zoom in"
+msgstr "Уменьшить"
+
+#: readtoolbar.py:193
+msgid "Zoom to width"
+msgstr "Масштабировать по ширине"
+
+#: readtoolbar.py:199
+msgid "Zoom to fit"
+msgstr "Масштабировать по размеру"
+
+#: readtoolbar.py:204
+msgid "Actual size"
+msgstr "Оригинальный размер"
+
+#: readtoolbar.py:221
+msgid "%"
+msgstr "%"
+
+#: readtoolbar.py:234
+msgid "Fullscreen"
+msgstr "Полный экран"
+
+#: readtoolbar.py:324
+msgid "Play / Pause"
+msgstr "Воспроизвести/Пауза"
+
+#: readtoolbar.py:377
+msgid "pitch adjusted"
+msgstr ""
+
+#: readtoolbar.py:382
+msgid "rate adjusted"
+msgstr ""
+
+#. TRANS: This goes like Bookmark added by User 5 days ago
+#. TRANS: (the elapsed string gets translated automatically)
+#: readsidebar.py:88
+#, python-format
+msgid "Bookmark added by %(user)s %(time)s"
+msgstr "Закладка добавлена %(time)s пользователем %(user)s"
+
+#: readsidebar.py:131 readsidebar.py:173
+msgid "Add notes for bookmark: "
+msgstr "Добавить заметку к закладке: "
+
+#: readsidebar.py:169
+#, python-format
+msgid "%s's bookmark"
+msgstr "%s's закладка"
+
+#: readsidebar.py:170
+#, python-format
+msgid "Bookmark for page %d"
+msgstr "Закладка страницы %d"
+
+#: readactivity.py:239
+msgid "Highlight"
+msgstr "Выделить"
+
+#: readactivity.py:349
+msgid "Back"
+msgstr "Назад"
+
+#: readactivity.py:352
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: readactivity.py:355
+msgid "Previous bookmark"
+msgstr "Предыдущая закладка"
+
+#: readactivity.py:365
+msgid "Forward"
+msgstr "Вперед"
+
+#: readactivity.py:368
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: readactivity.py:371
+msgid "Next bookmark"
+msgstr "Следующая закладка"
+
+#: readactivity.py:570
+msgid "Choose document"
+msgstr "Выбрать документ"
+
+#: readtopbar.py:141
+#, python-format
+msgid "Page %(current)i of %(total_pages)i"
+msgstr ""
+
+#: readdialog.py:51
+msgid "Cancel"
+msgstr "Отмена"
+
+#: readdialog.py:57
+msgid "Ok"
+msgstr "Ок"
+
+#: readdialog.py:112
+msgid "<b>Title</b>:"
+msgstr "<b>Заголовок</b>:"
+
+#: readdialog.py:138
+msgid "<b>Details</b>:"
+msgstr "<b>Детали</b>:"
+
+#, python-format
+#~ msgid "Page %i of %i"
+#~ msgstr "Страница %i из %i"
+
+#~ msgid "Edit"
+#~ msgstr "Редактировать"
+
+#~ msgid "View"
+#~ msgstr "Просмотреть"
+
+#~ msgid "Read Activity"
+#~ msgstr "Активность Чтение"
